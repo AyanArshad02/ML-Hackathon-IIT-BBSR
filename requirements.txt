@@ -1,0 +1,13 @@
+tensorflow
+matplotlib
+numpy
+pandas
+scikit-learn
+opencv-python
+tqdm
+keras-tuner
+albumentations
+foolbox
+lime
+kagglehub
+kaggle
