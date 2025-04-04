@@ -172,3 +172,41 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# ======================================
+# ML Hackathon-Specific Ignore Patterns
+# ======================================
+
+# Jupyter Notebook Output & Checkpoints
+.ipynb_checkpoints/
+
+# Kaggle credentials (DO NOT TRACK)
+kaggle.json
+*.json
+
+# Datasets
+data/
+*.zip
+
+# Trained model weights
+models/
+*.h5
+*.ckpt
+*.pb
+*.tflite
+*.onnx
+
+# Results & outputs
+results/
+*.csv
+*.log
+
+# Virtual Environment folders
+hackathon_env/
+.venv/
+venv/
+
+# IDE Configs (VSCode, PyCharm)
+.vscode/
+.idea/
