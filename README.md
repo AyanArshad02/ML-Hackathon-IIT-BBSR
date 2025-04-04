@@ -12,19 +12,9 @@ This repository contains the code, trained models and result files for the ML Ha
 
 ---
 
-## Directory Structure
+---
 
-```
-notebooks/
-├── kt_tuner/
-│   ├── models/
-│   │   ├── ResNet50_CIFAKE_best.h5          # Final selected model
-│   │   ├── best_model_checkpoint.h5         # From Hyperband tuning
-│   │   ├── best_model_checkpoint_RandomSearch.h5
-│   ├── Test_1_results.csv                   # Submission file 1
-│   ├── Test_2_results.csv                   # Submission file 2
-│   └── train_exploration.ipynb              # Training, tuning and evaluation notebook
-```
+
 
 ---
 
